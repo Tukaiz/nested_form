@@ -1,7 +1,3 @@
-# Unmaintained
-
-The Nested Form gem is **no longer maintained**. Feel free to fork this project.
-
 # Nested Form
 
 [<img src="https://secure.travis-ci.org/ryanb/nested_form.png?branch=master" alt="Build Status" />](http://travis-ci.org/ryanb/nested_form)
